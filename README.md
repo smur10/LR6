@@ -63,7 +63,7 @@ $ git merge origin/branch1
 Открыл merge.txt с помощью nano и изменил содержимое файла
 
 ```
-nano merge.txt
+nano mergefile.txt
 ```
 
 ## 10. Удаление побочной ветки после слияния
